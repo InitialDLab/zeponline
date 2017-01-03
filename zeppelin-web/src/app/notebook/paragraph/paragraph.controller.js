@@ -1,5 +1,9 @@
 /*jshint loopfunc: true, unused:false */
 /*
+ * Copyright 2016 InitialD Lab
+ *
+ * Derived from paragraph.controller.js from Apache Zeppelin project
+ *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at

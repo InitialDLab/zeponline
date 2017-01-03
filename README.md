@@ -3,6 +3,14 @@
 ## Modified zeppelin for XDB
 
 This is a modified Apache Zeppelin 0.6.0 with support for online aggregation in XDB.
+See NOTICE for details. Please feel free to use the modified version and XDB
+interpreter for non-commercial purpose. If you would like to make commercial
+use ofthem, please contact the authors.
+
+Feifei Li: lifeifei [at] cs [dot] utah [dot] edu <br/>
+Bin Wu: bwuac [at] cse [dot] ust [dot] hk <br/>
+Ke Yi: yike [at] cse [dot] ust [dot] hk <br/>
+Zhuoyue Zhao: zyzhao [at] cs [dot] utah [dot] edu
 
 You need to first install the modified Zeppelin to maven cache. Then build the
 xdb interpreter in the xdb folder. It will be automatically copied to the

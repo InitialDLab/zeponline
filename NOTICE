@@ -1,4 +1,15 @@
-Apache Zeppelin
+Modified Apache Zeppelin
+
+New or modified source files include
+zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/Paragraph.java
+zeppelin-web/src/app/notebook/paragraph/paragraph.controller.js
+zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/Job.java
+zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterResult.java
+xdb/src/main/java/xdb/XDBInterpreter.java
+**/*.pom
+Copyright 2015-2017 InitialD Lab
+
+Derived from Apache Zeppelin
 Copyright 2015 - 2016 The Apache Software Foundation
 
 This product includes software developed at
