@@ -7,7 +7,7 @@ See NOTICE for details. Please feel free to use the modified version and XDB
 interpreter for non-commercial purpose. If you would like to make commercial
 use ofthem, please contact the authors.
 
-Zhuoyue Zhao: zyzhao [at] cs [dot] utah [dot] edu (contact author)
+Zhuoyue Zhao: zyzhao [at] cs [dot] utah [dot] edu (contact author) <br/>
 Bin Wu: bwuac [at] cse [dot] ust [dot] hk <br/>
 Feifei Li: lifeifei [at] cs [dot] utah [dot] edu <br/>
 Ke Yi: yike [at] cse [dot] ust [dot] hk <br/>
